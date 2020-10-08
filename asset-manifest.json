@@ -1,27 +1,31 @@
 {
   "files": {
     "main.css": "/website-gsap/static/css/main.3169c177.chunk.css",
-    "main.js": "/website-gsap/static/js/main.90f2b33e.chunk.js",
-    "main.js.map": "/website-gsap/static/js/main.90f2b33e.chunk.js.map",
+    "main.js": "/website-gsap/static/js/main.88f26dde.chunk.js",
+    "main.js.map": "/website-gsap/static/js/main.88f26dde.chunk.js.map",
     "runtime-main.js": "/website-gsap/static/js/runtime-main.aad8fe0e.js",
     "runtime-main.js.map": "/website-gsap/static/js/runtime-main.aad8fe0e.js.map",
     "static/js/2.ed3f2994.chunk.js": "/website-gsap/static/js/2.ed3f2994.chunk.js",
     "static/js/2.ed3f2994.chunk.js.map": "/website-gsap/static/js/2.ed3f2994.chunk.js.map",
     "index.html": "/website-gsap/index.html",
-    "precache-manifest.9198d5e27debcd05435492774c6f2530.js": "/website-gsap/precache-manifest.9198d5e27debcd05435492774c6f2530.js",
+    "precache-manifest.a700050232e75e9ad443f25f357fb6ff.js": "/website-gsap/precache-manifest.a700050232e75e9ad443f25f357fb6ff.js",
     "service-worker.js": "/website-gsap/service-worker.js",
     "static/css/main.3169c177.chunk.css.map": "/website-gsap/static/css/main.3169c177.chunk.css.map",
     "static/js/2.ed3f2994.chunk.js.LICENSE.txt": "/website-gsap/static/js/2.ed3f2994.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/website-gsap/static/media/1.f44df889.jpg",
+    "static/media/5.jpg": "/website-gsap/static/media/5.05df8909.jpg",
+    "static/media/6.jpg": "/website-gsap/static/media/6.428c7691.jpg",
+    "static/media/7.jpg": "/website-gsap/static/media/7.77dd1596.jpg",
     "static/media/arrow-left.f9a44e1c.svg": "/website-gsap/static/media/arrow-left.f9a44e1c.svg",
     "static/media/arrow-right.dc372a07.svg": "/website-gsap/static/media/arrow-right.dc372a07.svg",
-    "static/media/asia.jpg": "/website-gsap/static/media/asia.6fe6c096.jpg",
-    "static/media/moutain.jpg": "/website-gsap/static/media/moutain.b81e3043.jpg",
-    "static/media/yoga.jpg": "/website-gsap/static/media/yoga.7f67968d.jpg"
+    "static/media/meditation.jpg": "/website-gsap/static/media/meditation.73cfa83f.jpg",
+    "static/media/yoga-down-dog.jpg": "/website-gsap/static/media/yoga-down-dog.ec92dec4.jpg",
+    "static/media/yoga.jpg": "/website-gsap/static/media/yoga.51f37690.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.aad8fe0e.js",
     "static/js/2.ed3f2994.chunk.js",
     "static/css/main.3169c177.chunk.css",
-    "static/js/main.90f2b33e.chunk.js"
+    "static/js/main.88f26dde.chunk.js"
   ]
 }
