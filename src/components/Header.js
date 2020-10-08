@@ -6,7 +6,7 @@ return (
         <div className='container'>
             <div className='row v-center space-between'>
                 <div className='logo'>
-                    <a href="/">LAURE CLARET.</a>
+                    <a href="/">BREATHES.</a>
                 </div>
                 <div className='nav'>
                     <span></span>

@@ -8,10 +8,10 @@ const Banner = () =>{
                 <div className='row'>
                     <h2>
                         <div className='line'>
-                            <span>Creating unique experiences</span>
+                            <span>All Level Meditation, Qigong,</span>
                         </div>
                         <div className='line'>
-                            <span>is what we do.</span>
+                            <span>and Yoga Studio.</span>
                         </div>
                     </h2>
                     <div className='btn-row'>

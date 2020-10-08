@@ -5,20 +5,20 @@ import {ReactComponent as CasesPrev} from '../assets/arrow-left.svg';
 const caseStudies = [
     {
         id: 1,
-        subtitle: 'Mountain',
-        title: 'A bla bla bla bla bla',
-        img: 'moutain'
+        subtitle: 'HATHA YOGA',
+        title: 'Advance',
+        img: 'yoga'
     },
     {
         id: 2,
-        subtitle: 'Retreat',
-        title: 'A bla bla bla bla bla',
-        img: 'yoga'
+        subtitle: 'TAOIST YOGA',
+        title: 'Beginner / Intermediate',
+        img: 'yoga-down-dog'
     },
     {id: 3,
-        subtitle: 'Tropical',
-        title: 'A bla bla bla bla bla',
-        img: 'asia'
+        subtitle: 'QUIGONG',
+        title: 'All level',
+        img: 'meditation'
     }
 ];
 
